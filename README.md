@@ -15,5 +15,5 @@ CONTENTS
   
 - Visualization of Predictions with plots
 
-At total i have implemented 2 models (U-net/PSPNet) and one-hot encoding for data combined with under-sampling and over-sampling both
+At total i have implemented 2 models (U-net/PSPNet) and one-hot encoding for dataset combined with under-sampling and over-sampling.
     
