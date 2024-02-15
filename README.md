@@ -6,7 +6,7 @@ CONTENTS
 - Data Resizing and Augmentation
   - In this part i first resized the dataset and saved to my local devices or drive
   - Then Augmentation and Transforming the data with one-hot encoding
-  - Implemented under-sampling. over-sampling and class weights for class inbalance problem
+  - Implemented under-sampling, over-sampling and class weights for class inbalance problem
     
 - Model
   - In this part I implemented 2 different models firstly my own U-net model and secondly PSPNet model implemented using Segmentation models for Tensorflow
